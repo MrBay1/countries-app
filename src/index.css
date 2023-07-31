@@ -65,3 +65,16 @@
   height: 13px;
   margin: 20px 130px -28px;
 }
+
+1)git init
+2)git add .
+3)git remote add origin https://github.com/MrBay1/countries-app. git
+4)git commit -m 'first commit'
+5)git config --global user.email "mryab100@gmail.com"
+6)git config --global user.name "MrBay1"
+7)git commit -m 'first-commit'
+8)git remote add origin https://github.com/MrBay1/countries-app. git
+9)git branch -M main
+10)git push -u origin main
+11)git remote add origin https://github.com/MrBay1/countries-app.git
+12)git push -u origin main
