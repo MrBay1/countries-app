@@ -21,6 +21,7 @@ const Country = () => {
       <div>
         <img src={countries.flags.svg} alt="" className='tar '/>
         {countries.name.common}
+        {countries.area}
         </div>
       <div>Capital: {countries.capital.map(item => <span key={item}>{item}</span>)}</div>
      </div>
